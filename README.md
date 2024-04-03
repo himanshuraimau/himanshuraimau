@@ -6,7 +6,7 @@
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=himanshuraimau.himanshuraimau)](https://visitor-badge.laobi.icu/badge?page_id=himanshuraimau.himanshuraimau)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:himanshuraimau9@gmail.com)
-[![](https://img.shields.io/github/stars/himanshuraimau?color=fefb7b&logo=Undertale)]
+![](https://img.shields.io/github/stars/himanshuraimau?color=fefb7b&logo=Undertale)
 [![](https://img.shields.io/github/followers/himanshuraimau?color=27da6b&logo=Handshake)](https://github.com/himanshuraimau?tab=followers)
 
 ## Tools
