@@ -10,7 +10,8 @@
 [![](https://img.shields.io/github/followers/himanshuraimau?color=27da6b&logo=Handshake)](https://github.com/himanshuraimau?tab=followers)
 
 ## Tools
- <p <a href="https://skillicons.dev">
+ <p  align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vim" />
   </a>
 </p>
