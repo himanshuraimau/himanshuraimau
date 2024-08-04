@@ -1,5 +1,33 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🤝 I’m looking for help with AI Engineering<br>🌱 I’m currently learning MERN Stack and AI/ML<br>💬 Ask me about anything related to MERN Stack or AI Engineering<br>⚡ Fun fact: I love exploring new technologies and building cool projects!
+# Tech Explorer & Code Alchemist
+A full-stack developer with a love for cutting-edge technologies and low-level optimization.
+
+## Current Focus
+- Full stack development
+- Web3 and blockchain technologies
+- AI/ML
+- Low-level programming
+
+## Background
+Turning caffeine into code since 2023
+
+## Future Goal
+Merge AI with decentralized systems.
+
+## Let's Talk About
+- Full stack architecture
+- AI breakthroughs
+- System internals
+- The next big tech wave
+
+## Fun Facts
+- I debug in my sleep and dream in both high-level and assembly languages
+- My code runs on coffee and curiosity
+
+## Projects
+-
+
+## Learning Next
+- Rust
 
 
 ## 🌐 Socials:
