@@ -1,9 +1,9 @@
 ### Himanshu Rai | A Full stack devloper and Tech Explorer.
 
-##### 🎯 Focus: Full stack | Web3 | AI/ML | Low-level programming
-##### 🚀 Goal: Merge AI with decentralized systems
-##### 💡 Let's Talk: Full stack | AI | System internals | Tech trends
-##### ⚡ Fun Fact: I debug in my sleep, dreaming in both high-level and assembly
+##### Focus: Full stack | Web3 | AI/ML | Low-level programming
+##### Goal: Merge AI with decentralized systems
+##### Let's Talk: Full stack | AI | System internals | Tech trends
+##### Fun Fact: I debug in my sleep, dreaming in both high-level and assembly
 
 ### Projects
 -
