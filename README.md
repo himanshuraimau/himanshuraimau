@@ -5,7 +5,7 @@
 ##### Let's Talk: Full stack | AI | System internals | Tech trends
 
 ### Portfolio:
-[enghimanshu.tech](https://enghimanshu.space)
+[enghimanshu.space](https://enghimanshu.space)
 
 
 ---
